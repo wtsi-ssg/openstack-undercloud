@@ -1,0 +1,30 @@
+{
+    "nodes": [
+        {
+            "arch": "x86_64",
+            "cpu": "12",
+            "disk": "500",
+            "mac": [
+                "1c:c1:de:01:15:20"
+            ],
+            "memory": "36144",
+            "pm_addr": "172.22.132.34",
+            "pm_password": "openstack",
+            "pm_type": "pxe_ipmitool",
+            "pm_user": "openstack"
+        },
+        {
+            "arch": "x86_64",
+            "cpu": "12",
+            "disk": "500",
+            "mac": [
+                "1c:c1:de:01:e6:e8"
+            ],
+            "memory": "36144",
+            "pm_addr": "172.22.132.35",
+            "pm_password": "openstack",
+            "pm_type": "pxe_ipmitool",
+            "pm_user": "openstack"
+        }
+    ]
+}
